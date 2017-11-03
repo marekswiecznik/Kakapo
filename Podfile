@@ -1,8 +1,8 @@
 use_frameworks!
 
 def testing_pods
-    pod 'Quick', '~> 1.0'
-    pod 'Nimble', '~> 5.0'
+    pod 'Quick', '~> 1.2'
+    pod 'Nimble', '~> 7.0'
     pod 'SwiftyJSON', '~> 3.0'
 end
 
